@@ -194,3 +194,4 @@ smart_ambulance_app/
 - **Missing Features:** Hospital and Admin portals are not implemented. Driver request acceptance/rejection and status updates (picked up, reached hospital) logic needs completion.
 
 
+<!-- commit 1 -->
